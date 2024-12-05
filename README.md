@@ -1,6 +1,6 @@
 <p>Primero <strong>activar el entorno virtual</strong>, para ello abrimos las carpetas en VisualStudio, y en la terminal ingresamos:</p>
 
-<pre><code>./venv/Scripts/activate</code></pre>
+<pre><code>./env/Scripts/activate</code></pre>
 
 <p>Sigue estos pasos para <strong>construir y ejecutar el contenedor Docker</strong> de la aplicación Flask:</p>
 
