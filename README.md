@@ -1,5 +1,6 @@
-Primero activar el entorno virtual, para ello abrimos las carpetas en VisualStudio, y en la terminal ingresamos:
+Primero **activar el entorno virtual**, para ello abrimos las carpetas en VisualStudio, y en la terminal ingresamos:
 
+```bash
 ./venv/Scripts/activate
 
 
