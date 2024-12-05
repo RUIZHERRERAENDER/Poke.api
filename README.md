@@ -9,7 +9,7 @@ Construcción de la imagen Docker: Abre Docker desktop, despues ejecuta el sigui
 
 docker build --force-rm -t flask-pokeapi . --no-cache
 
-Luego, para iniciar el contenedor, utiliza el siguiente comando:
+Luego, para iniciar el contenedor, utiliza el siguiente comando: 
 
 docker run -p 5000:5000 -d --name Pokeapi flask-pokeapi:latest
 
@@ -17,4 +17,4 @@ Puedes visualizar en DockerDesktop la imagen y el contenedor creados.
 
 Finalmente, la aplicación estará disponible en tu navegador en:
 
-[http://localhost:5000](http://localhost:5000)
+http://localhost:5000
